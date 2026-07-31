@@ -1,0 +1,34 @@
+{
+  "name": "audio-beat-analyzer",
+  "version": "1.0.0",
+  "description": "Automatic audio beat detection, BPM calculation, and motion generation tool",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "analyze-audio": "./cli.js"
+  },
+  "scripts": {
+    "analyze": "node cli.js",
+    "test": "node cli.js --help"
+  },
+  "keywords": [
+    "audio",
+    "beat-detection",
+    "bpm",
+    "motion-generation",
+    "music-analysis"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "beat-detection": "^1.0.0",
+    "@libraz/libsonare": "^1.0.2",
+    "audio-decode": "^2.1.3",
+    "chalk": "^5.3.0",
+    "ora": "^7.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

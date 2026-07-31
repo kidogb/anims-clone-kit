@@ -1,0 +1,94 @@
+{
+  "_comment": "Fill every 'your' field. Keep length close to 'original' so timings still fit. Leave unused beats as empty string only if you intentionally cut them.",
+  "brand": {
+    "name": {
+      "original": "AnimStats",
+      "your": ""
+    },
+    "url": {
+      "original": "animstats.com",
+      "your": ""
+    },
+    "introWord": {
+      "original": "Introducing",
+      "your": ""
+    }
+  },
+  "copy": {
+    "hook": {
+      "original": "Are you / ready / get / x10 more / engagement / Grab more attention?",
+      "your": "",
+      "constraint": "5–7 short beats"
+    },
+    "corePromise": {
+      "original": "Turn your stats into Captivating animated GIFs/Videos",
+      "your": "",
+      "constraint": "Split across white then black scenes"
+    },
+    "templatesLine": {
+      "original": "Choose from different Premium templates",
+      "your": "",
+      "constraint": "End with typewriter"
+    },
+    "editHeadline": {
+      "original": "Write your stats",
+      "your": "",
+      "constraint": "Then show live number change"
+    },
+    "customizeLine": {
+      "original": "Easily Customize it to your liking",
+      "your": "",
+      "constraint": "Gradient on middle phrase"
+    },
+    "backgroundsLine": {
+      "original": "Choose from curated selection of cool backgrounds",
+      "your": "",
+      "constraint": "Clause-by-clause"
+    },
+    "watermarkLine": {
+      "original": "Custom watermark",
+      "your": "",
+      "constraint": "Then type brand handle"
+    },
+    "exportLine": {
+      "original": "Export your stats as Gif / Video",
+      "your": "",
+      "constraint": "Two toggle states"
+    },
+    "benefitCta": {
+      "original": "Grab more attention",
+      "your": "",
+      "constraint": "Pairs with eyes motif"
+    },
+    "closeLine": {
+      "original": "Share your stats in remarkable way",
+      "your": "",
+      "constraint": "Emphasize one adjective"
+    }
+  },
+  "metrics": {
+    "heroMetric": {
+      "original": "MRR $5 → $1,000",
+      "your": "",
+      "constraint": "One clear count-up story"
+    },
+    "secondaryMetric": {
+      "original": "Followers +0 → +1,050",
+      "your": ""
+    },
+    "watermarkHandle": {
+      "original": "Twitter",
+      "your": ""
+    }
+  },
+  "exportFormats": {
+    "original": ["Gif", "Video"],
+    "your": ["", ""]
+  },
+  "notes": {
+    "tone": "",
+    "mustKeepBeats": [],
+    "canSkipBeats": [],
+    "framework": "hyperframes"
+  }
+}
